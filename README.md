@@ -1,7 +1,6 @@
 # Face-Recognition
 This repository is on the face recognition system.
-Face-Recognition
-This repository is on the face recognition system.
+https://github.com/AIProject2022/Face-Recognition/blob/Development/Key_Image_artificial-face-recognition.png
 
 About the Project
 This is a project where by a bunch of AI Engineers are creating a web app based on facial recognition for creating a smooth eployee entrya nd exit ssystem for the smooth process.
